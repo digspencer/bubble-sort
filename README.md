@@ -1,4 +1,4 @@
-# bubble-sort
+# Bubble-sort
 O Bubble Sort é um algoritmo de classificação (ou ordenação) simples que funciona comparando pares de elementos adjacentes e trocando-os de posição se estiverem na ordem errada. Ele recebe esse nome devido à forma como os elementos "borbulham" para suas posições corretas à medida que a lista é percorrida repetidamente.
 
 O processo básico do Bubble Sort é o seguinte:
